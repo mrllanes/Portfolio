@@ -1,0 +1,12 @@
+
+/*Stylesheet for the Honda Rune Portfolio site*/
+
+body {
+    background-color: rgb(139, 94, 156);
+}
+
+.navbar, .navbar-expand-lg, .navbar-light, .bg-light {
+    background-color: magenta;
+}
+
+
