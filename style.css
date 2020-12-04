@@ -1,8 +1,10 @@
 
 /*Stylesheet for the Honda Rune Portfolio site*/
 
+
+/*Semantic definitions*/
 body {
-    background-color: rgb(139, 94, 156);
+    background-color: rgb(212, 187, 221);
 }
 
 span {
@@ -13,13 +15,26 @@ nav {
     color: white;
 }
 
-.bg-light {
-    background-color: blue !important;
+/* Class definitions for the Footer */
+footer {
+    padding: 30px;
+    background-color: rgb(65, 65, 65);
+    clear: both;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: white;
 }
 
 
+/*Class definitions*/
+.bg-light {
+    background-color: purple !important;
+}
 
 .sr-only {
     position: relative;
 }
 
+.col-list {
+    border: 3px solid black;
+}
