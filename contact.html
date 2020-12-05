@@ -45,62 +45,78 @@
         </nav>
     </div>
 
+    <!--Main section for the Contact Form-->
     <div class="container">
-        <form action="action_page.php">
+        <br>
+        <h1>Feel Free to Contact Us!</h1>
+        <br>
+        <form>
             <div class="row">
-                <div class="col-2">
-                    <label for="fullName">Full Name: </label>
+                <div class="col">
+                    <p>Now that you have read and learned a bit about the Honda Rune, Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta dolorem necessitatibus quia, voluptas numquam animi. Saepe quo voluptas, ab, a quia sit esse repudiandae est id minima mollitia delectus impedit. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem sed voluptatibus dolore officia, similique, eius officiis fuga ipsam, rerum quasi dolorum praesentium est doloremque consequatur numquam labore voluptate ex? Impedit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos nesciunt consequuntur aliquid fugiat officiis aliquam nemo quo quod cum laudantium facere, magni ipsa obcaecati officia. Blanditiis itaque porro velit tenetur!</p>
                 </div>
                 <div class="col">
-                    <input type="text" id="fullName" name="name" placeholder="First and Last Name">
-                </div>
-            </div>
+                    <div class="row">
+                        <div class="col-3">
+                            <label for="fullName">Full Name: </label>
+                        </div>
+                        <div class="col">
+                            <input type="text" id="fullName" name="name" placeholder="First and Last Name">
+                        </div>
+                    </div>
 
-            <div class="row">
-                <div class="col-2">
-                    <label for="emailAddess">E-Mail Address: </label>
-                </div>
-                <div class="col">
-                    <input type="text" id="emailAddress" name="email" placeholder="someone@theinternet.com">
-                </div>
-            </div>
+                    <div class="row">
+                        <div class="col-3">
+                            <label for="emailAddress">E-Mail Address: </label>
+                        </div>
+                        <div class="col">
+                            <input type="text" id="emailAddress" name="email" placeholder="someone@theinternet.com">
+                        </div>
+                    </div>
 
-            <div class="row">
-                <div class="col-2">
-                    <label for="identify">Identify As: </label>
-                </div>
-                <div class="col">
-                    <select id="identify" name="identify">
-                        <option value="owner">I Own A Rune</option>
-                        <option value="wannabe">I Want to Buy a Rune</option>
-                        <option value="enthused">I Need To Know More About The Rune</option>
-                        <option value="troll">I Am Just Here For The LULZ</option>
-                    </select>
-                </div>
-            </div>
+                    <!--Dropdown menu -->
+                    <div class="row">
+                        <div class="col-3">
+                            <label for="identify">Identify As: </label>
+                        </div>
+                        <div class="col">
+                            <select id="identify" name="identify">
+                                <option value="owner">I Own A Rune</option>
+                                <option value="wannabe">I Want to Buy a Rune</option>
+                                <option value="enthused">I Need To Know More About The Rune</option>
+                                <option value="troll">I Am Just Here For The LULZ</option>
+                            </select>
+                        </div>
+                    </div>
 
-            <div class="row">
-                <div class="col-2">
-                    <label for="interest">What brings you here: </label>
-                </div>
-                <div class="col">
-                    <textarea id="interest" name="interest" placeholder="This bike is...." style="height:200px"></textarea>
-                </div>
+                    <div class="row">
+                        <div class="col-3">
+                            <label for="interest">What brings you here: </label>
+                        </div>
+                        <div class="col">
+                            <textarea id="interest" name="interest" placeholder="This bike is...  I believe that... Tell me about..." style="height:200px;width:350px"></textarea>
+                        </div>
+                    </div>
 
-            <div class="row">
-                <div class="col">
-                    <input type="submit" value="Submit">
+                    <!--Submit button is Offset on purpose-->
+                    <div class="row">
+                        <div class="col-md-2 offset-md-1">
+                            <input type="submit" value="Submit" style="color: blue;">
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </form>
 
 
     </div>
+    <br>
 
     <!--Footer Area, same for all pages-->
     <div class="container">
         <footer>
-            <p>&copy; Senall Sabres, LLC <img src="images/sslogo.jpg" height="60px"></p>
+            <p>&copy; 2020 <img src="images/sslogo.jpg" height="80px"></p>
         </footer>
     </div>
 
