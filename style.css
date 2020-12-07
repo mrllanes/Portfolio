@@ -6,6 +6,7 @@
 body {
     background-color: rgb(26, 17, 63);
     color: snow;
+    min-height: 100vh;
 }
 
 span {
