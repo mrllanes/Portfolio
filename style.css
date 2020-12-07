@@ -4,7 +4,8 @@
 
 /*Semantic definitions*/
 body {
-    background-color: rgb(212, 187, 221);
+    background-color: rgb(26, 17, 63);
+    color: snow;
 }
 
 span {
@@ -26,7 +27,7 @@ img {
 
 /* Definitions for the Footer */
 footer {
-    padding: 30px;
+    padding: 10px;
     background-color: rgb(65, 65, 65);
     clear: both;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -37,7 +38,7 @@ footer {
 
 /*Class definitions*/
 .bg-light {
-    background-color: purple !important;
+    background-color: rgb(146, 24, 24) !important;
 }
 
 .sr-only {
