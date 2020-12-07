@@ -15,6 +15,15 @@ nav {
     color: white;
 }
 
+div {
+    padding: 5px;
+}
+
+img {
+    margin: 10px;
+}
+
+
 /* Definitions for the Footer */
 footer {
     padding: 30px;
