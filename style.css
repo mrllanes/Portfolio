@@ -1,6 +1,7 @@
 
-/*Stylesheet for the Honda Rune Portfolio site*/
-
+/*Stylesheet for the Michael Llanes Portfolio site*/
+/*As Bootstrap was used for this site, only small minor changes were made here.
+All other stylings are pulled from the default Bootstrap v4.5 stylesheet*/
 
 /*Semantic definitions*/
 body {
@@ -28,12 +29,12 @@ img {
 
 /* Definitions for the Footer */
 footer {
-    padding: 10px;
     background-color: rgb(65, 65, 65);
     clear: both;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     color: white;
+    height: ;
 }
 
 
