@@ -1,0 +1,78 @@
+/*Stylesheet for the Michael Llanes Portfolio site*/
+/*As Bootstrap was used for this site, only small minor changes were made here.
+All other stylings are pulled from the default Bootstrap v4.5 stylesheet*/
+
+/*Semantic definitions*/
+body {
+  background-color: rgb(26, 17, 63);
+  color: snow;
+  min-height: 100vh;
+}
+
+span {
+  font-style: italic;
+}
+
+nav {
+  color: white;
+}
+
+div {
+  padding: 5px;
+}
+
+img {
+  margin: 10px;
+}
+
+/* Definitions for the Footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(65, 65, 65);
+  clear: both;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+}
+
+/*Class definitions*/
+.bg-light {
+  background-color: rgb(146, 24, 24) !important;
+}
+
+.sr-only {
+  position: relative;
+}
+
+.col-list {
+  border: 3px solid black;
+}
+
+.navbar .navbar-nav {
+  /* display: inline-block; */
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+
+#name {
+  /* position: absolute; */
+  left: 25%;
+  /* transform: translatex(-25%); */
+  margin-right: 2px;
+  letter-spacing: 4px;
+}
