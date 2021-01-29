@@ -1,18 +1,25 @@
-# Portfolio
+# Michael Llanes Portfolio
 
-## This repository is for Michael Llanes' portfolio
+Hello and welcome. My name is Michael Llanes and you have found my online portfolio. Please feel free to read about me and all things that I am.
 
-## Please find all the information you would need to know about Michael Llanes and his web development skills.
+## Online Portfolio Gallery
 
-## Michael is currently in the oil and gas sector and hopes to use his development skills to enhance overall productivity in certain departments.
+You will find several projects which I created solely and even some I collaborated on. A breif intro to each project, a weblink to the deployed sites and a link to the GitHub repository for each of the projects is included. This page will be updated as other projects will be added in the near future.
 
-### This portfolio has heavy use of Bootstrap components including:
-      Responsive Layout and responsive images
-      Collapsable navigation bar
-      Contact form
-      And more
-    
-## If there are any questions or issues with the portfolio, please feel free to contact Michael Llanes via e-mail
+## Technologies
 
-## llanesm@gmail.com
+## Screenshots
 
+## Deployed Site
+
+https://mrllanes.github.io/Portfolio/
+
+## Licenses
+
+[MIT](./LICENSE) &copy; [GitHub](https://github.com/)
+
+## Contact
+
+For more information or to contact me for any other reason, please use the e-mail below:
+
+- llanesm@gmail.com
