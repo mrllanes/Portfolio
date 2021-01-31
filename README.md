@@ -1,6 +1,6 @@
 # Michael Llanes Portfolio
 
-Hello and welcome. My name is Michael Llanes and you have found my online portfolio. Please feel free to read about me and all things that I am.
+Hello and welcome. My name is Michael Llanes and you have found my online portfolio. Please feel free to read about me and all things that I am (that was not a typo).
 
 ## Online Portfolio Gallery
 
@@ -8,7 +8,26 @@ You will find several projects which I created solely and even some I collaborat
 
 ## Technologies
 
+The following were used in the creation of this Portfolio:
+
+- Bootstrap version 4.5.3
+- Customized CSS
+- FontAwesome
+- For the Projects:
+  - JavaScript
+  - jQuery
+  - OpenWeather API
+  - Heroku API
+  - Giphy API
+  - GitHub (local repositories and linked repositories)
+
 ## Screenshots
+
+See the following SCREENSHOTS to get an idea of what the Portfolio looks like:
+
+![Portfolio About](./assets/readme-images/readme-image-1.PNG)
+![Portfolio Gallary](./assets/readme-images/readme-image-2.PNG)
+![Portfolio Contact](./assets/readme-images/readme-image-3.PNG)
 
 ## Deployed Site
 
