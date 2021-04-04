@@ -17,7 +17,7 @@ The following were used in the creation of this Portfolio:
   - JavaScript
   - jQuery
   - OpenWeather API
-  - Heroku API
+  - Sugoku API
   - Giphy API
   - GitHub (local repositories and linked repositories)
 
